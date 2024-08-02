@@ -1,0 +1,25 @@
+.top-header {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 80px;
+  margin-top: 80px;
+  margin-left: 50px;
+}
+
+.top-header:hover {
+  text-decoration-line: underline;
+}
+
+.nav-element {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  height: 40px;
+  width: 100px;
+  text-decoration-line: none;
+  color:black;
+  transition:0.15s;
+}
+
+.nav-element:hover {
+  background-color: darkgreen;
+  color:white;
+}
